@@ -1,1 +1,1 @@
-#[Filip](https://open.kattis.com/problems/filip)
+#[Filip - Problem specified at online judge open.kattis.com](https://open.kattis.com/problems/filip)
